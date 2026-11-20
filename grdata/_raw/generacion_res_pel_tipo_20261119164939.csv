@@ -1,0 +1,101 @@
+_id,generacion_estimada,subsector,anio,categoria_residuo,tipo_residuo,municipio,entidad_federativa,categoria_generador
+1,1.22,Petrolero,2017,"Gasolina, diesel y naftas gastados o sucios provenientes de estaciónes de servicio y talleres automotrices",Pequeño Generador,Sin Dato,Aguascalientes,Microgenerador
+2,0.04,Petrolero,2017,"Gasolina, diesel y naftas gastados o sucios provenientes de estaciónes de servicio y talleres automotrices","Mezclas de combustibles sucios, mezclas de hidrocarburos, naftas",Sin Dato,Aguascalientes,Microgenerador
+3,0.09,Petrolero,2017,Liquidos de proceso,"Agua contaminada con hidrocarburos, combustibles, aceite o grasa",Sin Dato,Aguascalientes,Microgenerador
+4,1.08,Petrolero,2017,Lodos aceitosos,"Con contaminacion de hidrocarburos, combustibles, aceite",Sin Dato,Aguascalientes,Microgenerador
+5,3.12,Petrolero,2017,Residuos solidos,"Estopa, trapo, plasticos, carton, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Microgenerador
+6,0.58,Petrolero,2017,Aceites gastados,Lubricantes,Sin Dato,Aguascalientes,Pequeno Generador
+7,0.16,Petrolero,2017,"Gasolina, diesel y naftas gastados o sucios provenientes de estaciónes de servicio y talleres automotrices","Mezclas de combustibles sucios, mezclas de hidrocarburos, naftas",Sin Dato,Aguascalientes,Pequeno Generador
+8,2.55,Petrolero,2017,Liquidos de proceso,"Agua contaminada con hidrocarburos, combustibles, aceite o grasa",Sin Dato,Aguascalientes,Pequeno Generador
+9,8.52,Petrolero,2017,Lodos,Lodos provenientes de tanques de almacenaniento,Sin Dato,Aguascalientes,Pequeno Generador
+10,1.46,Petrolero,2017,Lodos aceitosos,"Con contaminacion de hidrocarburos, combustibles, aceite",Sin Dato,Aguascalientes,Pequeno Generador
+11,2.42,Petrolero,2017,Residuos solidos,"Estopa, trapo, plasticos, carton, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Pequeno Generador
+12,0.05,Petrolero,2017,Residuos solidos,Lampara fluorescentes,Sin Dato,Aguascalientes,Pequeno Generador
+13,0.03,Petrolero,2017,Solventes,Solventes organicos usados,Sin Dato,Aguascalientes,Pequeno Generador
+14,0.2,Petrolifero,2018,Aceites gastados (Hidraulicos),Aceite gastado hidraulico,Sin Dato,Aguascalientes,Microgenerador
+15,0.31,Petrolifero,2018,Aceites gastados (Lubricantes),Aceites gastados lubricantes,Sin Dato,Aguascalientes,Microgenerador
+16,0.1,Petrolifero,2018,Filtro de aire o aceite contaminados,Filtro de aire o aceite contaminados,Sin Dato,Aguascalientes,Microgenerador
+17,1.69,Petrolifero,2018,Diesel y gasolina sucias,"Gasolina, Diesel y Naftas gastados o sucios provenientes de Estaciones de Servicio y Talleres Automotrices",Sin Dato,Aguascalientes,Microgenerador
+18,0,Petrolifero,2018,Lamparas fluorescentes y de vapor de mercurio,Lamparas fluorescentes y de vapor de mercurio,Sin Dato,Aguascalientes,Microgenerador
+19,0.11,Petrolifero,2018,Liquidos residuales de proceso no corrosivos,Residuos de trampas liquido,Sin Dato,Aguascalientes,Microgenerador
+20,3.2,Petrolifero,2018,Lodos Contaminados con Hidrocarburos (combustible y aceites),Lodos desechos de trampa,Sin Dato,Aguascalientes,Microgenerador
+21,0.71,Petrolifero,2018,Lodos de tanques de almacenamiento de hidrocarburos,Lodos de tanques de hidrocarburos,Sin Dato,Aguascalientes,Microgenerador
+22,4.15,Petrolifero,2018,Solidos contaminados con hidrocarburos diversos,"Filtros, mangueras, envases, botes, cubetas, contenedores, trapos, guantes, carton, aserrin, material absorbente,Estopas y trapos impregnados con combustible, Envases vacios impregnados de aceite",Sin Dato,Aguascalientes,Microgenerador
+23,1.35,Petrolifero,2018,Aceites gastados (Lubricantes),Aceites gastados lubricantes,Sin Dato,Aguascalientes,Pequeno generador
+24,0.01,Petrolifero,2018,Baterias alcalinas,Pilas alcalinas,Sin Dato,Aguascalientes,Pequeno generador
+25,0.58,Petrolifero,2018,Filtro de aire o aceite contaminados,Filtro de aire o aceite contaminados,Sin Dato,Aguascalientes,Pequeno generador
+26,0.06,Petrolifero,2018,Lamparas fluorescentes y de vapor de mercurio,Lamparas fluorescentes y de vapor de mercurio,Sin Dato,Aguascalientes,Pequeno generador
+27,24.4,Petrolifero,2018,Liquidos residuales de proceso no corrosivos,Agua contaminada con hidrocarburos,Sin Dato,Aguascalientes,Pequeno generador
+28,39.67,Petrolifero,2018,Lodos Contaminados con Hidrocarburos (combustible y aceites),Lodos aceitosos de trampa,Sin Dato,Aguascalientes,Pequeno generador
+29,0.11,Petrolifero,2018,Lodos de tanques de almacenamiento de hidrocarburos,Lodos de tanques de hidrocarburos,Sin Dato,Aguascalientes,Pequeno generador
+30,0.06,Petrolifero,2018,Pilas o Baterias con Litio o Cadmio,Pilas Niquel-Cadmio,Sin Dato,Aguascalientes,Pequeno generador
+31,4.03,Petrolifero,2018,Solidos contaminados con hidrocarburos diversos,"Filtros, mangueras, envases, botes, cubetas, contenedores, trapos, guantes, carton, aserrin, material absorbente,Estopas y trapos impregnados con combustible, Envases vacios impregnados de aceite",Sin Dato,Aguascalientes,Pequeno generador
+32,0.19,Petrolifero,2018,Solidos contaminados con pinturas o solventes diversos,"Envases, botes, cubetas, contenedores, trapos, guantes, carton, EPP, carton, envases, franelas, filtros impregnados",Sin Dato,Aguascalientes,Pequeno generador
+33,0,Petrolifero,2019,Aceites gastados,hidraulicos,Sin Dato,Aguascalientes,Microgenerador
+34,0,Petrolifero,2019,Aceites gastados,Lubricantes,Sin Dato,Aguascalientes,Microgenerador
+35,0.1564,Petrolifero,2019,"Gasolina, diesel y naftas gastados o sucios provenientes de estaciónes de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices",Sin Dato,Aguascalientes,Microgenerador
+36,0.0476,Petrolifero,2019,Liquidos de proceso,No corrosivos,Sin Dato,Aguascalientes,Microgenerador
+37,0.085,Petrolifero,2019,Lodos,Lodos aceitosos,Sin Dato,Aguascalientes,Microgenerador
+38,0,Petrolifero,2019,Lodos,Lodos procedentes de trampas de grasas e hidrocarburos,Sin Dato,Aguascalientes,Microgenerador
+39,0.181,Petrolifero,2019,Residuos solidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Microgenerador
+40,0,Petrolifero,2019,Residuos solidos,Filtro de aire o de aceite contaminados,Sin Dato,Aguascalientes,Microgenerador
+41,0,Petrolifero,2019,Residuos solidos,Lámpara fluorescentes,Sin Dato,Aguascalientes,Microgenerador
+42,0,Petrolifero,2019,Aceites gastados,Lubricantes,Sin Dato,Aguascalientes,Pequeno Generador
+43,0,Petrolifero,2019,"Baterias, celdas y pilas",Pilas alcalinas,Sin Dato,Aguascalientes,Pequeno Generador
+44,0,Petrolifero,2019,"Baterias, celdas y pilas",Pilas o baterias de Niquel - Cadmio,Sin Dato,Aguascalientes,Pequeno Generador
+45,0,Petrolifero,2019,Liquidos de proceso,Liquidos con residuos de hidrocarburos,Sin Dato,Aguascalientes,Pequeno Generador
+46,0,Petrolifero,2019,Lodos,Lodos aceitosos,Sin Dato,Aguascalientes,Pequeno Generador
+47,0,Petrolifero,2019,Lodos,Lodos procedentes de trampas de grasas e hidrocarburos,Sin Dato,Aguascalientes,Pequeno Generador
+48,0,Petrolifero,2019,Residuos solidos,"Botes o recipientes que contuvieron contaminantes diversos, latas de pintura, aerosoles",Sin Dato,Aguascalientes,Pequeno Generador
+49,0,Petrolifero,2019,Residuos solidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Pequeno Generador
+50,0,Petrolifero,2019,Residuos solidos,Filtro de aire o de aceite contaminados,Sin Dato,Aguascalientes,Pequeno Generador
+51,0,Petrolifero,2019,Residuos solidos,Lámpara fluorescentes,Sin Dato,Aguascalientes,Pequeno Generador
+52,0.24,Petrolifero,2020,Aceites lubricantes,Aceites gastados lubricantes,Sin Dato,Aguascalientes,Microgenerador
+53,0.015,Petrolifero,2020,Líquidos de proceso,Aguas aceitosas,Sin Dato,Aguascalientes,Microgenerador
+54,0.22,Petrolifero,2020,"Gasollina, diésel y naftas gastados","Gasollina, diésel y naftas gastados",Sin Dato,Aguascalientes,Microgenerador
+55,0.0036,Petrolifero,2020,Lámparas fluorescentes y de vapor de mercurio,Lámparas fluorescentes y de vapor de mercurio,Sin Dato,Aguascalientes,Microgenerador
+56,1.916,Petrolifero,2020,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Microgenerador
+57,1.017,Petrolifero,2020,Lodos,Lodos aceitosos,Sin Dato,Aguascalientes,Microgenerador
+58,0.9968,Petrolifero,2020,Aceites lubricantes,Aceites gastados lubricantes,Sin Dato,Aguascalientes,Pequeno Generador
+59,28.55,Petrolifero,2020,Líquidos de proceso,Aguas aceitosas,Sin Dato,Aguascalientes,Pequeno Generador
+60,0.98,Petrolifero,2020,"Gasollina, diésel y naftas gastados","Gasollina, diésel y naftas gastados",Sin Dato,Aguascalientes,Pequeno Generador
+61,0.909,Petrolifero,2020,Lámparas fluorescentes y de vapor de mercurio,Lámparas fluorescentes y de vapor de mercurio,Sin Dato,Aguascalientes,Pequeno Generador
+62,1.8195,Petrolifero,2020,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Pequeno Generador
+63,0.031,Petrolifero,2020,"Baterias, pilas y balastras","Baterias, pilas y balastras",Sin Dato,Aguascalientes,Pequeno Generador
+64,1.603,Petrolifero,2020,Lodos,Lodos aceitosos,Sin Dato,Aguascalientes,Pequeno Generador
+65,0.24,Petrolifero,2021,Aceites gastados,Lubricantes,Sin Dato,Aguascalientes,Microgenerador
+66,0.22,Petrolifero,2021,"Gasolina, diésel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios",Sin Dato,Aguascalientes,Microgenerador
+67,0.02,Petrolifero,2021,Otros,"Agua oleosa, agua contaminada",Sin Dato,Aguascalientes,Microgenerador
+68,1.92,Petrolifero,2021,Residuos solidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Microgenerador
+69,0,Petrolifero,2021,Residuos solidos,"Lámparas fluorescentes, lámparas de vapor de mercurio",Sin Dato,Aguascalientes,Microgenerador
+70,1.02,Petrolifero,2021,Lodos,Lodos aceitosos,Sin Dato,Aguascalientes,Microgenerador
+71,1,Petrolifero,2021,Aceites gastados,Lubricantes,Sin Dato,Aguascalientes,Pequeno Generador
+72,0.03,Petrolifero,2021,"baterias, celdas y pilas","Baterias, pilas y balastras",Sin Dato,Aguascalientes,Pequeno Generador
+73,0.98,Petrolifero,2021,"Gasolina, diésel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios",Sin Dato,Aguascalientes,Pequeno Generador
+74,28.55,Petrolifero,2021,Otros,"Agua oleosa, agua contaminada",Sin Dato,Aguascalientes,Pequeno Generador
+75,1.82,Petrolifero,2021,Residuos solidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Sin Dato,Aguascalientes,Pequeno Generador
+76,0.91,Petrolifero,2021,Residuos solidos,"Lámparas fluorescentes, lámparas de vapor de mercurio",Sin Dato,Aguascalientes,Pequeno Generador
+77,1.6,Petrolifero,2021,Lodos,Lodos aceitosos,Sin Dato,Aguascalientes,Pequeno Generador
+78,0.26,Petrolífero,2022,Aceites gastados,Lubricantes,Aguascalientes,Aguascalientes,Microgenerador
+79,0,Petrolífero,2022,"Gasolina, diésel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios",Aguascalientes,Aguascalientes,Microgenerador
+80,0.3,Petrolífero,2022,Lodos,Lodos aceitosos,Aguascalientes,Aguascalientes,Microgenerador
+81,0.07,Petrolífero,2022,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Aguascalientes,Aguascalientes,Microgenerador
+82,0.02,Petrolífero,2022,Aceites gastados,Lubricantes,Jesús María,Aguascalientes,Microgenerador
+83,0.1,Petrolífero,2022,"Gasolina, diésel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios",Jesús María,Aguascalientes,Microgenerador
+84,0.1,Petrolífero,2022,Lodos,Lodos aceitosos,Jesús María,Aguascalientes,Microgenerador
+85,0.18,Petrolífero,2022,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Jesús María,Aguascalientes,Microgenerador
+86,0.03,Petrolífero,2022,"Gasolina, diésel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios",El Llano,Aguascalientes,Microgenerador
+87,0.03,Petrolífero,2022,Lodos,Lodos aceitosos,El Llano,Aguascalientes,Microgenerador
+88,0.29,Petrolífero,2022,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",El Llano,Aguascalientes,Microgenerador
+89,0.08,Petrolífero,2023,Aceites gastados,Hidráulicos,Aguascalientes,Aguascalientes,Microgenerador
+90,0.29,Petrolífero,2023,"Gasolina, diésel y naftas gastados o sucios provenientes de estaciones de servicio y talleres automotrices","Gasolina, diesel y naftas gastados o sucios",Aguascalientes,Aguascalientes,Microgenerador
+91,0.26,Petrolífero,2023,Lodos,Lodos aceitosos,Aguascalientes,Aguascalientes,Microgenerador
+92,0.16,Petrolífero,2023,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Aguascalientes,Aguascalientes,Microgenerador
+93,0.02,Petrolífero,2023,Residuos sólidos,"Lámparas fluorescentes, lámparas de vapor de mercurio",Aguascalientes,Aguascalientes,Microgenerador
+94,3.5,Petrolífero,2023,Aceites gastados,Lubricantes,Aguascalientes,Aguascalientes,Pequeño Generador
+95,0.3,Petrolífero,2023,Agua contaminada,"Agua contaminada con hidrocarburos, combustibles, aceite o grasa",Aguascalientes,Aguascalientes,Pequeño Generador
+96,0.6,Petrolífero,2023,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Aguascalientes,Aguascalientes,Pequeño Generador
+97,0.21,Petrolífero,2023,Lodos,Lodos aceitosos,Cosío,Aguascalientes,Microgenerador
+98,0.1,Petrolífero,2023,Residuos sólidos,"Estopa, trapo, plásticos, cartón, madera, brochas, papel, cepillo, etc., impregnados con pinturas, grasas, aceites, hidrocarburos",Cosío,Aguascalientes,Microgenerador
+99,0.27,Petrolífero,2024,Aceites gastados,Hidráulicos,Aguascalientes,Aguascalientes,Microgenerador
+100,0.03,Petrolífero,2024,Aceites gastados,Lubricantes,Aguascalientes,Aguascalientes,Microgenerador

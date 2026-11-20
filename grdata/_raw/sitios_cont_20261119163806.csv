@@ -1,0 +1,101 @@
+numero_certificado,nombre_area,numero,superficie_certificada_ha,anio_certificacion,estado,tipo_propietario,_id,municipio,region_conanp,vigencia_anio
+CONANP-01/2002,Parque Ecológico Jaguaroundi,1,960.734884,2002,Veracruz,Empresa de Participación Estatal,1,Coatzacoalcos,Planicie Costera y Golfo de México,99.0
+CONANP-02/2003,Rancho La Asunción con el Area Natural Protegida Yu-Balcah,2,572.0,2003,Tabasco,Persona física,2,Tacotalpa,Planicie Costera y Golfo de México,
+CONANP-10/2004,Cerro Chango,3,700.0,2004,Oaxaca,Ejido (Tierras de Uso Común),3,Santiago Jocotepec,Frontera Sur Istmo y Pacífico Sur,
+CONANP-13/2004,Área de Conservación San Pedro Tlatepusco,4,5050.0,2004,Oaxaca,Comunidad (Bienes comunales),4,San Felipe Usila,Frontera Sur Istmo y Pacífico Sur,25.0
+CONANP-14/2004,Área de Conservación Santiago Tlatepusco,5,4300.0,2004,Oaxaca,Comunidad (Bienes comunales),5,San Felipe Usila,Frontera Sur Istmo y Pacífico Sur,25.0
+CONANP-15/2004,Área de Conservación San Antonio del Barrio,6,1500.0,2004,Oaxaca,Comunidad (Bienes comunales),6,San Felipe Usila,Frontera Sur Istmo y Pacífico Sur,25.0
+CONANP-16/2004,Área de Conservación la Tierra del Faisán,7,9670.0,2004,Oaxaca,Comunidad (Bienes comunales),7,San Felipe Usila,Frontera Sur Istmo y Pacífico Sur,25.0
+CONANP-17/2005,Area de Preservación de la Naturaleza y Zona de Usos Múltiples para el Ecoturismo Kolijké,8,26.0,2005,Puebla,Persona física,8,Zihuatehutla,Planicie Costera y Golfo de México,
+CONANP-24/2005,Rancho Media Luna,9,15000.0,2005,Coahuila,Persona física,9,Ocampo,Noreste y Sierra Madre Oriental,50.0
+CONANP-25/2005,Cacalotepec fracción primera y fracción segunda,10,36.478,2005,Puebla,Persona física,10,Xicotepec de Juárez,Planicie Costera y Golfo de México,50.0
+CONANP-26/2005,Área Comunitaria Protegida San Isidro,11,5308.0,2005,Oaxaca,Comunidad (Bienes comunales),11,San Pedro Huamelula,Frontera Sur Istmo y Pacífico Sur,
+CONANP-29/2006,Zona de Reserva Ecológica Comunal de San Juan Teponaxtla,12,4000.0,2006,Oaxaca,Comunidad (Bienes comunales),12,San Juan Tepehuxila,Frontera Sur Istmo y Pacífico Sur,
+CONANP-30-BIS 1/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 1Z-1 P1/1,13,2.632599,2006,Veracruz,Ejido (Parcela),13,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 2/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 2Z-1 P1/1,14,7.358554,2006,Veracruz,Ejido (Parcela),14,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 3/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 3Z-1 P1/1,15,4.500508,2006,Veracruz,Ejido (Parcela),15,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 4/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 4Z-1 P1/1,16,9.99061,2006,Veracruz,Ejido(Parcela),16,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 5/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 5Z-1 P1/1,17,2.889649,2006,Veracruz,Ejido (Parcela),17,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 6/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 6Z-1 P1/1E,18,1.385399,2006,Veracruz,Ejido (Parcela),18,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 7/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 8Z-1 P1/1E,19,0.937231,2006,Veracruz,Ejido (Parcela),19,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 8/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 9 Z-1 P1/1,20,8.484835,2006,Veracruz,Ejido (Parcela),20,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 9/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 10 Z-1 P1/1,21,7.016356,2006,Veracruz,Ejido (Parcela),21,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 10/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 11 Z-1 P1/1,22,8.719543,2006,Veracruz,Ejido (Parcela),22,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 11/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 12-Z-1 P1/1,23,1.502856,2006,Veracruz,Ejido (Parcela),23,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 12/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 13 Z-1 P1/1,24,5.590399,2006,Veracruz,Ejido (Parcela),24,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 13/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 15 Z-1 P1/1,25,1.881143,2006,Veracruz,Ejido (Parcela),25,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 14/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 17 Z P1/1,26,5.585348,2006,Veracruz,Ejido (Parcela),26,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 15/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 19 Z-1 P1/1,27,8.882243,2006,Veracruz,Ejido (Parcela),27,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 16/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 20 Z-1 P1/1,28,14.855768,2006,Veracruz,Ejido (Parcela),28,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 17/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 21 Z-1 P1/1,29,0.636371,2006,Veracruz,Ejido (Parcela),29,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 18/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 22 Z-1 P1/1,30,1.130807,2006,Veracruz,Ejido (Parcela),30,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 19/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 23 Z-1 P1/1,31,3.514964,2006,Veracruz,Ejido (Parcela),31,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 20/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 24 Z-1 P1/1,32,12.086967,2006,Veracruz,Ejido (Parcela),32,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 21/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 25 Z-1 P1/1,33,1.73916,2006,Veracruz,Ejido (Parcela),33,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 22/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 26 Z-1 P1/1,34,3.910833,2006,Veracruz,Ejido (Parcela),34,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 23/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 28 Z-1 P1/1,35,0.315574,2006,Veracruz,Ejido (Parcela),35,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 24/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 29 Z-1 P1/1,36,0.393579,2006,Veracruz,Ejido (Parcela),36,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 25/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 30 Z-1 P1/1,37,0.777222,2006,Veracruz,Ejido (Parcela),37,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 26/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 31 Z-1 P1/1,38,0.251224,2006,Veracruz,Ejido (Parcela),38,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 27/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 32 Z-1 P1/1,39,0.544401,2006,Veracruz,Ejido (Parcela),39,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 28/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 34 Z-1 P1/1,40,0.924576,2006,Veracruz,Ejido (Parcela),40,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 29/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 35 Z-1 P1/1,41,2.878738,2006,Veracruz,Ejido (Parcela),41,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 30/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 37 Z-1 P1/1,42,5.100669,2006,Veracruz,Ejido (Parcela),42,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 31/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 1 Z-1 P1/1,43,1.055822,2006,Veracruz,Ejido (Parcela),43,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 32/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 2 Z-1 P1/1,44,1.452494,2006,Veracruz,Ejido (Parcela),44,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 33/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 3 Z-1 P1/1,45,1.893981,2006,Veracruz,Ejido (Parcela),45,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 34/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 5Z-1 P1/1,46,0.212166,2006,Veracruz,Ejido (Parcela),46,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 35/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 6 Z-1 P1/1,47,0.144951,2006,Veracruz,Ejido (Parcela),47,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 36/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 7 Z-1 P1/1,48,9.063499,2006,Veracruz,Ejido (Parcela),48,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 37/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 9 Z-1 P1/1,49,11.545134,2006,Veracruz,Ejido (Parcela),49,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 38/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 12 Z-1 P1/1,50,2.843918,2006,Veracruz,Ejido (Parcela),50,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 39/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 15 Z-1 P1/1,51,5.151196,2006,Veracruz,Ejido (Parcela),51,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 40/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 18 Z-1 P1/1,52,2.372648,2006,Veracruz,Ejido (Parcela),52,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 41/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 20 Z-1 P1/1,53,0.94717,2006,Veracruz,Ejido (Parcela),53,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 42/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 25 Z-1 P1/1,54,0.496182,2006,Veracruz,Ejido (Parcela),54,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 43/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 28 Z-1 P1/1,55,0.167063,2006,Veracruz,Ejido (Parcela),55,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 44/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 29 Z-1 P1/1,56,0.117582,2006,Veracruz,Ejido (Parcela),56,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 45/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 31 Z-1 P1/1,57,0.802911,2006,Veracruz,Ejido (Parcela),57,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 46/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 32 Z-1 P1/1,58,1.429689,2006,Veracruz,Ejido (Parcela),58,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 47/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 33 Z-1 P1/1,59,1.133455,2006,Veracruz,Ejido (Parcela),59,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 48/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 34 Z-1 P1/1,60,1.902438,2006,Veracruz,Ejido (Parcela),60,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 49/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 37 Z-1 P1/1,61,0.407352,2006,Veracruz,Ejido (Parcela),61,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 50/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 38 Z-1 P1/1,62,0.110476,2006,Veracruz,Ejido (Parcela),62,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 51/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 39 Z-1 P1/1,63,2.419823,2006,Veracruz,Ejido (Parcela),63,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 52/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 40 Z-1 P1/1,64,3.122699,2006,Veracruz,Ejido (Parcela),64,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 53/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 41 Z-1 P1/1,65,0.603706,2006,Veracruz,Ejido (Parcela),65,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 54/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 42 Z-1 P1/1,66,2.021532,2006,Veracruz,Ejido (Parcela),66,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 55/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 47 Z-1 P/1,67,0.197385,2006,Veracruz,Ejido (Parcela),67,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 56/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 49 Z-1 P1/1,68,0.09762,2006,Veracruz,Ejido (Parcela),68,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 57/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 50 Z-1 P1/1,69,0.238884,2006,Veracruz,Ejido (Parcela),69,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 58/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 52 Z-1 P1/1,70,4.990557,2006,Veracruz,Ejido (Parcela),70,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 59/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 53 Z-1 P1/1,71,1.23831,2006,Veracruz,Ejido (Parcela),71,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 60/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 54 Z-1 P1/1,72,1.805722,2006,Veracruz,Ejido (Parcela),72,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 61/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 55 Z-1 P1/1,73,0.076388,2006,Veracruz,Ejido (Parcela),73,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 62/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 63 Z-1 P1/1,74,6.278518,2006,Veracruz,Ejido (Parcela),74,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 63/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 64 Z-1 P1/1,75,1.466709,2006,Veracruz,Ejido (Parcela),75,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 64/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 66 Z-1 P1/1,76,2.692554,2006,Veracruz,Ejido (Parcela),76,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 65/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 67 Z-1 P1/1,77,0.8084,2006,Veracruz,Ejido (Parcela),77,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 66/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 73 Z-1 P1/1,78,1.130722,2006,Veracruz,Ejido (Parcela),78,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 67/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 74 Z-1 P1/1,79,1.144728,2006,Veracruz,Ejido (Parcela),79,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 68/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 75 Z-1 P1/1,80,1.183795,2006,Veracruz,Ejido (Parcela),80,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 69/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 76 Z-1 P1/1,81,2.814391,2006,Veracruz,Ejido (Parcela),81,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 70/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 78 Z-1 P1/1,82,2.234095,2006,Veracruz,Ejido (Parcela),82,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 71/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 79 Z-1 P1/1,83,5.443938,2006,Veracruz,Ejido (Parcela),83,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 72/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 84 Z-1 P1/1,84,0.190639,2006,Veracruz,Ejido (Parcela),84,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 73/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 86 Z-1 P1/1,85,0.177643,2006,Veracruz,Ejido (Parcela),85,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 74/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 89 Z-1 P1/1,86,0.076673,2006,Veracruz,Ejido (Parcela),86,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 75/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 93 Z-1 P1/1,87,0.078107,2006,Veracruz,Ejido (Parcela),87,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 76/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 95 Z-1 P1/1,88,0.797529,2006,Veracruz,Ejido (Parcela),88,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 77/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 96 Z-1 P1/1,89,0.7843,2006,Veracruz,Ejido (Parcela),89,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 78/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 97 Z-1 P1/1,90,1.172647,2006,Veracruz,Ejido (Parcela),90,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 79/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 98 Z-1 P1/1,91,1.157716,2006,Veracruz,Ejido (Parcela),91,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 80/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 99 Z-1 P1/1,92,1.023787,2006,Veracruz,Ejido (Parcela),92,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 81/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 100 Z-1 P1/1,93,4.575957,2006,Veracruz,Ejido (Parcela),93,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 82/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 102 Z-1 P1/1,94,1.3982,2006,Veracruz,Ejido (Parcela),94,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 83/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 103 Z-1 P1/1,95,0.611032,2006,Veracruz,Ejido (Parcela),95,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 84/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 104 Z-1 P1/1,96,1.631705,2006,Veracruz,Ejido (Parcela),96,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 85/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 106 Z-1 P1/1,97,0.865542,2006,Veracruz,Ejido (Parcela),97,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 86/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 107 Z-1 P1/1,98,2.865852,2006,Veracruz,Ejido (Parcela),98,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 87/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 109 Z-1 P1/1,99,8.92691,2006,Veracruz,Ejido (Parcela),99,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0
+CONANP-30-BIS 88/2006,Reserva Ecológica Natural Cuenca Alta del Río Atoyac 113 Z-1 P1/1,100,3.144837,2006,Veracruz,Ejido (Parcela),100,Amatlan de Reyes,Planicie Costera y Golfo de México,30.0

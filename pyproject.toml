@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "worktools"
+version = "0.1.0"
+description = "Dummy description"
+authors = ["Juan Carlos Priego <juancarlos.priegoj@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.15"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

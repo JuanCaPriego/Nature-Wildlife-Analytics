@@ -1,0 +1,101 @@
+_id,tipo_contaminante,anio,municipio,entidad_federativa,nombre_contaminante,numero_sitios
+1,"Hidrocarburos, fracción ligera",2016,Aguascalientes,Aguascalientes,Gasolina,1
+2,"Hidrocarburos, fracción media",2024,Aguascalientes,Aguascalientes,Diésel,2
+3,"Hidrocarburos, más de una fracción",2016,Tecate,Baja California,Más de un combustible o producto,6
+4,"Hidrocarburos, fracción media",2024,Tecate,Baja California,Diésel,2
+5,"Hidrocarburos, fracción ligera",2016,Tijuana,Baja California,Gasolina,1
+6,"Hidrocarburos, fracción media",2016,Tijuana,Baja California,Diésel,1
+7,"Hidrocarburos, fracción media",2019,Tijuana,Baja California,Turbosina,1
+8,"Hidrocarburos, fracción media",2016,Comondú,Baja California Sur,Diésel,1
+9,"Hidrocarburos, fracción media",2022,Comondú,Baja California Sur,Diésel,1
+10,"Hidrocarburos, fracción media",2017,Mulegé,Baja California Sur,Diésel,1
+11,"Hidrocarburos, fracción media",2016,La Paz,Baja California Sur,Turbosina,1
+12,"Hidrocarburos, fracción ligera",2018,La Paz,Baja California Sur,Gasolina,1
+13,"Hidrocarburos, fracción media",2019,La Paz,Baja California Sur,Diésel,1
+14,"Hidrocarburos, fracción media",2021,La Paz,Baja California Sur,Turbosina,1
+15,"Hidrocarburos, fracción pesada",2016,Carmen,Campeche,Combustóleo,1
+16,"Hidrocarburos, más de una fracción",2024,Carmen,Campeche,Más de un combustible o producto,2
+17,"Hidrocarburos, fracción pesada",2016,Champotón,Campeche,Combustóleo,1
+18,"Hidrocarburos, fracción media",2018,Champotón,Campeche,Diésel,1
+19,"Hidrocarburos, fracción media",2017,Escárcega,Campeche,Diésel,1
+20,"Hidrocarburos, fracción media",2021,Arteaga,Coahuila,Diésel,1
+21,"Hidrocarburos, fracción ligera",2023,Escobedo,Coahuila,Gasolina,1
+22,"Hidrocarburos, fracción media",2024,Monclova,Coahuila,Diésel,1
+23,"Hidrocarburos, fracción media",2022,Parras,Coahuila,Diésel,1
+24,"Hidrocarburos, fracción media",2023,Parras,Coahuila,Diésel,1
+25,"Hidrocarburos, fracción media",2021,Ramos Arizpe,Coahuila,Diésel,1
+26,"Hidrocarburos, fracción ligera",2022,Ramos Arizpe,Coahuila,Gasolina,1
+27,"Hidrocarburos, fracción media",2016,Saltillo,Coahuila,Diésel,1
+28,"Hidrocarburos, más de una fracción",2018,Saltillo,Coahuila,Más de un combustible o producto,1
+29,"Hidrocarburos, fracción ligera",2021,Saltillo,Coahuila,Gasolina,1
+30,"Hidrocarburos, más de una fracción",2022,Saltillo,Coahuila,Más de un combustible o producto,3
+31,"Hidrocarburos, más de una fracción",2023,Saltillo,Coahuila,Más de un combustible o producto,2
+32,"Hidrocarburos, fracción media",2018,San Pedro,Coahuila,Diésel,1
+33,"Hidrocarburos, fracción media",2019,San Pedro,Coahuila,Diésel,1
+34,"Hidrocarburos, fracción ligera",2024,San Pedro,Coahuila,Gasolina,1
+35,"Hidrocarburos, fracción media",2022,Torreón,Coahuila,Diésel,1
+36,"Hidrocarburos, fracción media",2023,Torreón,Coahuila,Diésel,1
+37,"Hidrocarburos, fracción ligera",2022,Viesca,Coahuila,Gasolina,1
+38,"Hidrocarburos, fracción ligera",2024,Viesca,Coahuila,Gasolina,1
+39,"Hidrocarburos, fracción ligera",2019,Colima,Colima,Gasolina,1
+40,"Hidrocarburos, fracción media",2023,Colima,Colima,Diésel,1
+41,"Hidrocarburos, fracción pesada",2017,Manzanillo,Colima,Combustóleo,1
+42,"Hidrocarburos, fracción media",2019,Tecomán,Colima,Diésel,1
+43,"Hidrocarburos, fracción ligera",2021,Arriaga,Chiapas,Gasolina,1
+44,"Hidrocarburos, fracción pesada",2016,Juárez,Chiapas,Petróleo crudo,1
+45,"Hidrocarburos, fracción ligera",2022,Ocozocoautla de Espinosa,Chiapas,Gasolina,1
+46,"Hidrocarburos, fracción media",2020,Villa Comaltitlán,Chiapas,Diésel,1
+47,"Hidrocarburos, fracción media",2017,Tapachula,Chiapas,Diésel,1
+48,"Hidrocarburos, fracción media",2016,Mezcalapa,Chiapas,Diésel,1
+49,"Hidrocarburos, fracción media",2023,Mezcalapa,Chiapas,Diésel,1
+50,"Hidrocarburos, fracción media",2017,Ahumada,Chihuahua,Diésel,1
+51,"Hidrocarburos, fracción media",2022,Ahumada,Chihuahua,Diésel,1
+52,"Hidrocarburos, fracción media",2023,Ahumada,Chihuahua,Diésel,1
+53,"Hidrocarburos, fracción media",2017,Bocoyna,Chihuahua,Diésel,1
+54,"Hidrocarburos, fracción media",2019,Bocoyna,Chihuahua,Diésel,1
+55,"Hidrocarburos, fracción media",2019,Camargo,Chihuahua,Diésel,1
+56,"Hidrocarburos, fracción media",2020,Camargo,Chihuahua,Diésel,1
+57,"Hidrocarburos, fracción media",2019,Cuauhtémoc,Chihuahua,Diésel,1
+58,"Hidrocarburos, fracción media",2020,Cuauhtémoc,Chihuahua,Diésel,1
+59,"Hidrocarburos, más de una fracción",2020,Chihuahua,Chihuahua,Mezclas de productos derivados del petróleo,1
+60,"Hidrocarburos, fracción media",2023,Chihuahua,Chihuahua,Turbosina,1
+61,"Hidrocarburos, fracción ligera",2024,Chihuahua,Chihuahua,Gasolina,1
+62,"Hidrocarburos, fracción media",2023,Santa Isabel,Chihuahua,Diésel,1
+63,"Hidrocarburos, fracción media",2018,Guerrero,Chihuahua,Diésel,1
+64,"Hidrocarburos, fracción media",2019,Guerrero,Chihuahua,Diésel,1
+65,"Hidrocarburos, fracción media",2020,Guerrero,Chihuahua,Diésel,1
+66,"Hidrocarburos, fracción media",2021,Guerrero,Chihuahua,Diésel,3
+67,"Hidrocarburos, fracción media",2022,Guerrero,Chihuahua,Diésel,1
+68,"Hidrocarburos, fracción media",2023,Guerrero,Chihuahua,Diésel,2
+69,"Hidrocarburos, fracción media",2024,Guerrero,Chihuahua,Diésel,3
+70,"Hidrocarburos, fracción media",2017,Janos,Chihuahua,Turbosina,1
+71,"Hidrocarburos, fracción media",2019,Janos,Chihuahua,Diésel,1
+72,"Hidrocarburos, fracción ligera",2021,Janos,Chihuahua,Gasolina,1
+73,"Hidrocarburos, fracción ligera",2021,Jiménez,Chihuahua,Gasolina,1
+74,"Hidrocarburos, fracción ligera",2022,Jiménez,Chihuahua,Gasolina,1
+75,"Hidrocarburos, fracción media",2023,Jiménez,Chihuahua,Diésel,1
+76,"Hidrocarburos, fracción ligera",2019,Juárez,Chihuahua,Gasolina,2
+77,"Hidrocarburos, fracción ligera",2022,Juárez,Chihuahua,Gasolina,1
+78,"Hidrocarburos, fracción ligera",2023,Juárez,Chihuahua,Gasolina,1
+79,"Hidrocarburos, fracción media",2024,Juárez,Chihuahua,Diésel,1
+80,"Hidrocarburos, fracción media",2024,Madera,Chihuahua,Diésel,1
+81,"Hidrocarburos, fracción media",2018,Meoqui,Chihuahua,Diésel,1
+82,"Hidrocarburos, fracción media",2019,Meoqui,Chihuahua,Diésel,1
+83,"Hidrocarburos, fracción media",2021,Meoqui,Chihuahua,Diésel,1
+84,"Hidrocarburos, fracción media",2023,Meoqui,Chihuahua,Diésel,1
+85,"Hidrocarburos, fracción media",2024,Ocampo,Chihuahua,Diésel,1
+86,"Hidrocarburos, fracción media",2017,Temósachic,Chihuahua,Turbosina,1
+87,"Hidrocarburos, fracción media",2024,Temósachic,Chihuahua,Diésel,1
+88,"Hidrocarburos, fracción media",2019,Urique,Chihuahua,Diésel,1
+89,"Hidrocarburos, fracción media",2016,Varios,Chihuahua,Diésel,1
+90,"Hidrocarburos, más de una fracción",2021,Cuajimalpa de Morelos,Ciudad de México,Más de un combustible o producto,1
+91,"Hidrocarburos, fracción ligera",2020,Venustiano Carranza,Ciudad de México,Gasolina,1
+92,"Hidrocarburos, fracción pesada",2017,Cuencamé,Durango,Combustóleo,2
+93,"Hidrocarburos, más de una fracción",2018,Gómez Palacio,Durango,Mezclas de productos derivados del petróleo,1
+94,"Hidrocarburos, más de una fracción",2019,Gómez Palacio,Durango,Mezclas de productos derivados del petróleo,1
+95,"Hidrocarburos, fracción media",2023,Guadalupe Victoria,Durango,Diésel,1
+96,"Hidrocarburos, fracción media",2020,Lerdo,Durango,Diésel,1
+97,"Hidrocarburos, fracción media",2020,Santa Clara,Durango,Diésel,1
+98,"Hidrocarburos, fracción media",2024,Santiago Papasquiaro,Durango,Diésel,1
+99,"Hidrocarburos, fracción ligera",2017,Apaseo El Grande,Guanajuato,Gasolina,1
+100,"Hidrocarburos, fracción pesada",2018,Apaseo El Grande,Guanajuato,Combustóleo,1
