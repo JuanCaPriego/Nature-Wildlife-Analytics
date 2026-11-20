@@ -6,6 +6,7 @@
         "tipo_propietario": "owner_type",
         "numero_certificado": "certification",
         "owner": "owner",
+        "superficie_certificada_ha": "surface",
         "is_endangered?": "is_endangered?"
     },
     "areas_protegidas": {
@@ -13,8 +14,9 @@
         "estado": "state",
         "nombre": "place_name",
         "desig_inter": "owner_type",
-        "cui_anp": "certificaion",
+        "cui_anp": "certification",
         "nom_direc": "owner",
+        "sup_ha": "surface",
         "is_endangered?": "is_endangered?"
     },
     "biosferas_UNESCO":{
@@ -22,8 +24,9 @@
         "estado_que_abarca": "state",
         "reserva_biosfera_mab": "place_name",
         "owner_type": "owner_type",
-        "certificaion": "certificaion",
+        "certification": "certification",
         "nombre_director": "owner",
+        "superficie_total_ha": "surface",
         "is_endangered?": "is_endangered?"
     },
     "patrimonios":{
@@ -31,8 +34,9 @@
         "estado": "state",
         "sitio_patrimonio_mundial": "place_name",
         "owner_type": "owner_type",
-        "certificaion": "certificaion",
+        "certification": "certification",
         "nombre_director": "owner",
+        "superficie_total_(ha)": "surface",
         "is_endangered?": "is_endangered?"
     }
 }

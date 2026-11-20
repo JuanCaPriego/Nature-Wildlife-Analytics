@@ -3,3 +3,5 @@ env/
 
 *.csv
 *.parquet
+
+logs/app_logs.txt
