@@ -1,0 +1,38 @@
+{
+    "advc": {
+        "municipio": "municipality",
+        "estado": "state",
+        "nombre_area": "place_name",
+        "tipo_propietario": "owner_type",
+        "numero_certificado": "certification",
+        "owner": "owner",
+        "is_endangered?": "is_endangered?"
+    },
+    "areas_protegidas": {
+        "municipality": "municipality",
+        "estado": "state",
+        "nombre": "place_name",
+        "desig_inter": "owner_type",
+        "cui_anp": "certificaion",
+        "nom_direc": "owner",
+        "is_endangered?": "is_endangered?"
+    },
+    "biosferas_UNESCO":{
+        "municipality": "municipality",
+        "estado_que_abarca": "state",
+        "reserva_biosfera_mab": "place_name",
+        "owner_type": "owner_type",
+        "certificaion": "certificaion",
+        "nombre_director": "owner",
+        "is_endangered?": "is_endangered?"
+    },
+    "patrimonios":{
+        "municipality": "municipality",
+        "estado": "state",
+        "sitio_patrimonio_mundial": "place_name",
+        "owner_type": "owner_type",
+        "certificaion": "certificaion",
+        "nombre_director": "owner",
+        "is_endangered?": "is_endangered?"
+    }
+}
