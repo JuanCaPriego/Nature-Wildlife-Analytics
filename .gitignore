@@ -1,2 +1,5 @@
-.vscode/
-.env
+vscode/
+env/
+
+*.csv
+*.parquet
